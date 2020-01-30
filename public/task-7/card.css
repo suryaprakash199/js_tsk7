@@ -1,0 +1,23 @@
+input{
+	width: 100%;
+}
+.assign {
+width: 50%;
+}
+body {
+	background-image: url(img/bg1.jpeg);
+	background-size: cover;
+}
+.card {
+		background-color: transparent;
+}
+.asot {
+background-image: url(img/bg2.jpeg);
+background-size: cover;
+}
+button {
+	color: blue;
+	background:linear-gradient(120deg, #3498db,#8e44ad,#3498db);
+	outline: none;
+	border: none;
+}
